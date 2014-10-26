@@ -17,6 +17,7 @@
     "email",
     "gmail"
   ],
+  "repository":"git@github.com:mdobson/zetta-gmail-driver.git",
   "author": "Matthew S Dobson <@mdobs>",
   "license": "MIT"
 }
