@@ -18,7 +18,7 @@ var credentials = {
 };
 
 zetta()
-  .use(Email, crendentials)
+  .use(Email, credentials)
   .listen(1337);
 ```
 
